@@ -1,0 +1,23 @@
+{
+  "name": "bw_prods_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjansar-gh/bw-products-api.git"
+  },
+  "author": "Javed Syed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjansar-gh/bw-products-api/issues"
+  },
+  "homepage": "https://github.com/sjansar-gh/bw-products-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
